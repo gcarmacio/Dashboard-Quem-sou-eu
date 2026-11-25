@@ -1,7 +1,5 @@
 # Dashboard — Sobre Mim
 
-![Dashboard Sobre Mim, de Gabriel Carmacio](dashboard.png)
-
 Dashboard visual criado como projeto do curso técnico de Informática para Internet. Ele reúne, em um só quadro, o que eu faço, o que eu sonho, o que eu devo fazer e o que eu não aceito, além de como eu me vejo e como os outros me veem.
 
 ## Os quatro quadrantes
